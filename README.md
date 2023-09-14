@@ -13,16 +13,16 @@ If you are an auditor, a creative problem solver or have a security background: 
 
 | Project                                             | Delivery Date                                                                                             | 
 | ----------------------------------------------------|-----------------------------------------------------------------------------------------------------------| 
-| [Zilliqa](https://zilliqa.com)                      | [12/27/2017](https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_Zilliqa.pdf)               |
-| [PolicyPal Network](https://www.policypal.network/) | [02/28/2018](https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_PolicyPal.pdf)             |
-| [VU token](https://www.vutoken.io/)                 | [04/24/2018](https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_Vutoken.pdf)               | 
-| [iExec](https://iex.ec/)                            | [05/16/2018](https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_iExec.pdf)                 |
-| [Kyber Network](https://kyber.network/)             | [06/29/2018](https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_KyberNetwork.pdf)          |
-| [POA Network](https://poa.net/)                     | [09/11/2018](https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_PoA.pdf)                   |
-| [Paxos](https://www.paxos.com)                      | [09/13/2018](https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_Paxos.pdf)                 |
-| [Wrapped BTC](https://www.wbtc.network/)            | [10/11/2018](https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_WBTC.pdf)                  |
-| [Republic Protocol](https://republicprotocol.com/)  | [10/22/2018](https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_Republic.pdf)              |
-| [SMART VALOR](https://smartvalor.com/)              | [10/24/2018](https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_SmartValor.pdf)            |
+| [Zilliqa](https://zilliqa.com)                      | [12/27/2022](https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_Zilliqa.pdf)               |
+| [PolicyPal Network](https://www.policypal.network/) | [01/22/2013](https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_PolicyPal.pdf)             |
+| [VU token](https://www.vutoken.io/)                 | [02/02/2023](https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_Vutoken.pdf)               | 
+| [iExec](https://iex.ec/)                            | [02/16/2023](https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_iExec.pdf)                 |
+| [Kyber Network](https://kyber.network/)             | [03/12/2023](https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_KyberNetwork.pdf)          |
+| [POA Network](https://poa.net/)                     | [03/15/2023](https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_PoA.pdf)                   |
+| [Paxos](https://www.paxos.com)                      | [03/23/2023](https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_Paxos.pdf)                 |
+| [Wrapped BTC](https://www.wbtc.network/)            | [03/29/2023](https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_WBTC.pdf)                  |
+| [Republic Protocol](https://republicprotocol.com/)  | [04/12/2023](https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_Republic.pdf)              |
+| [SMART VALOR](https://smartvalor.com/)              | [04/24/2023](https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_SmartValor.pdf)            |
 | [STK](https://stktoken.com/)                        | [11/07/2018](https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_STK.pdf)                   |
 | [Switcheo Network](https://switcheo.network/)       | [11/15/2018](https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_Switcheo.pdf)              |
 | [Digix Dao](https://digix.global/dgd)               | [12/10/2018](https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_Digix.pdf)                 |
