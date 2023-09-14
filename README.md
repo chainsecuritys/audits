@@ -31,4 +31,4 @@ If you are an auditor, a creative problem solver or have a security background: 
 | [Blockimmo](https://blockimmo.ch/)                  | [07/01/2023](https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_Blockimmo.pdf)             |
 | [STOKR](https://stokr.io/)                          | [07/21/2023](https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_STOKR.pdf)                 |
 | [MARKET Protocol](https://marketprotocol.io/)       | [08/12/2023](https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_MARKET_Protocol.pdf)       |
-| [Dige Block](https://digeblock.world)               | [08/25/2023](https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_Zilliqa.pdf)               |
+| [Dige Block](https://digeblock.world)               | [08/25/2023](https://github.com/chainsecuritys/DIGEAUDIT/blob/main/DIGE_AUDIT_REPORT_V1.0.pdf)               |
