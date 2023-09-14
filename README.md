@@ -31,3 +31,4 @@ If you are an auditor, a creative problem solver or have a security background: 
 | [Blockimmo](https://blockimmo.ch/)                  | [04/01/2019](https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_Blockimmo.pdf)             |
 | [STOKR](https://stokr.io/)                          | [04/29/2019](https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_STOKR.pdf)                 |
 | [MARKET Protocol](https://marketprotocol.io/)       | [05/22/2019](https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_MARKET_Protocol.pdf)       |
+| [Zilliqa](https://zilliqa.com)                      | [12/27/2017](https://github.com/ChainSecurity/audits/blob/master/ChainSecurity_Zilliqa.pdf)               |
